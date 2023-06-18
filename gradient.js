@@ -4,6 +4,8 @@
  *   commented out for now.
  */
 
+// comment
+
 //Converting colors to proper format
 function normalizeColor(hexCode) {
   return [
