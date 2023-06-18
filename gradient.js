@@ -4,8 +4,6 @@
  *   commented out for now.
  */
 
-// testing git
-
 //Converting colors to proper format
 function normalizeColor(hexCode) {
   return [
